@@ -1,0 +1,15 @@
+{
+  "name": "09-test-driven-http-response",
+  "version": "1.0.0",
+  "description": "",
+  "main": "09-test-driven-http-response.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "supertest": "^6.3.0"
+  }
+}
