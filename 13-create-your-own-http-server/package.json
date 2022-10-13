@@ -1,0 +1,16 @@
+{
+  "name": "13-create-your-own-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13-create-your-own-http-server.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/supertest": "^2.0.12",
+    "jest": "^29.1.2",
+    "supertest": "^6.3.0"
+  }
+}
