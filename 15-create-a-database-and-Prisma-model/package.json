@@ -1,0 +1,20 @@
+{
+  "name": "15-create-a-database-and-prisma-model",
+  "version": "1.0.0",
+  "main": "15-create-a-database-and-Prisma-model.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/supertest": "^2.0.12",
+    "jest": "^29.1.2",
+    "prisma": "^4.4.0",
+    "supertest": "^6.3.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.4.0"
+  },
+  "description": ""
+}
